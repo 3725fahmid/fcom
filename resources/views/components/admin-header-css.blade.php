@@ -18,9 +18,15 @@
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
 	<link href="{{asset('assets/css/app.css')}}" rel="stylesheet">
 	<link href="{{asset('assets/css/icons.css')}}" rel="stylesheet">
+	<!-- ajax link  -->
+	<link rel="stylesheet" href="https://developercodez.com/developerCorner/parsley/parsley.css" >
+	<script src="{{asset('asset/js/jquery.min.js')}}"></script>
+	<script src="https://developercodez.com/developerCorner/parsley/parsley.min.js"></script>
+
 	<!-- Theme Style CSS -->
 	<link rel="stylesheet" href="{{asset('assets/css/dark-theme.css')}}" />
 	<link rel="stylesheet" href="{{asset('assets/css/semi-dark.css')}}" />
 	<link rel="stylesheet" href="{{asset('assets/css/header-colors.css')}}" />
+	
 	<title>Exam</title>
 </head>
